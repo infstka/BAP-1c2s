@@ -1,0 +1,5 @@
+﻿  task1.cpp
+\\Mac\Home\Documents\Unik\ОАП\oap2\lab_17\task1\task1\task1.cpp(127,6): warning C4101: buf: неиспользованная локальная переменная
+\\Mac\Home\Documents\Unik\ОАП\oap2\lab_17\task1\task1\task1.cpp(167,24): warning C4101: B: неиспользованная локальная переменная
+\\Mac\Home\Documents\Unik\ОАП\oap2\lab_17\task1\task1\task1.cpp(167,18): warning C4101: A: неиспользованная локальная переменная
+  task1.vcxproj -> \\Mac\Home\Documents\Unik\ОАП\oap2\lab_17\task1\Debug\task1.exe

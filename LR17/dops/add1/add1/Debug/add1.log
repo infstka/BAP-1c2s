@@ -1,0 +1,4 @@
+﻿  add1.cpp
+D:\University\Second_Semester\LabarotaryWorks\LabarotaryWorks\OAP\Laba17\add1\add1\add1.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\University\Second_Semester\LabarotaryWorks\LabarotaryWorks\OAP\Laba17\add1\add1\add1.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  add1.vcxproj -> D:\University\Second_Semester\LabarotaryWorks\LabarotaryWorks\OAP\Laba17\add1\Debug\add1.exe

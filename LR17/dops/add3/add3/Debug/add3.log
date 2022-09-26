@@ -1,0 +1,4 @@
+﻿  add3.cpp
+D:\University\Second_Semester\LabarotaryWorks\LabarotaryWorks\OAP\Laba17\add3\add3\add3.cpp(17,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\University\Second_Semester\LabarotaryWorks\LabarotaryWorks\OAP\Laba17\add3\add3\add3.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  add3.vcxproj -> D:\University\Second_Semester\LabarotaryWorks\LabarotaryWorks\OAP\Laba17\add3\Debug\add3.exe

@@ -1,0 +1,9 @@
+﻿  Laba12_dop1.cpp
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(29,24): warning C4101: letter: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(28,32): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(82,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(83,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(92,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Downloads\Laba12_dop1.cpp(93,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  3.vcxproj -> H:\Лабораторные работы\2 семестр\ОАиП\ЛР12\допы\3\Debug\3.exe
